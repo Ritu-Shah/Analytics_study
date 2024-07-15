@@ -1,5 +1,7 @@
 **Data Science Portfolio**
 This repository contains a collection of data science projects I've completed for academic, self-learning, and hobby purposes. The projects are presented as Jupyter Notebooks and cover a wide range of topics, including machine learning, natural language processing, and data analysis.
+
+
 **Data Analysis and Visualization**
 **Scalable Walkability Analysis of Melbourne**: Analysis of the walkability of suburbs in Melbourne, Victoria, and its implications.
 
@@ -9,4 +11,4 @@ This repository contains a collection of data science projects I've completed fo
 **Technologies:** Pandas, Seaborn
 **Stock Market Analysis for Tech Stocks**: Analysis of technology stocks, including changes in price over time, daily returns, and stock behavior prediction.
 
-Technologies: Pandas, Matplotlib, Seaborn
+**Technologies**: Pandas, Matplotlib, Seaborn
